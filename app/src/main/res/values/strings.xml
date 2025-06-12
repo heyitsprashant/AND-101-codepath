@@ -1,6 +1,17 @@
 <resources>
-    <string name="app_name">Android Hunt</string>
+    <string name="app_name">ProfileCard</string>
+    <string name="profile_name">Prashant Basyal</string>
+    <string name="profile_bio">Computer Science &amp; Math student passionate about building in web dev, ML &amp; fintech.</string>
+    <string name="hobbies">Hobbies</string>
 
-    <!-- [A] -->
-    <string name="hello_world">Hello World!</string>
+    <string name="profile_hobbies">
+    <b><font color="#FFD54F">Hobbies 🧠</font></b>\n
+    🥇 Building creative projects\n
+    🎧 Discovering new music\n
+    🍿 Watching movies\n
+    🏊 Swimming\n
+    ✈️ Traveling\n
+    🥉 Hearing people talk about what they love — even if I don’t get it 😄
+</string>
+
 </resources>
