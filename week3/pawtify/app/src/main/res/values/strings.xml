@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pawtify</string>
+    <string name="slogan">Unleash your favorite barks</string>
+    <string name="login_button">Login</string>
+    <string name="signup_text">Don’t have a pack? Sign up</string>
+    <string name="logo_desc">Paw print logo</string>
+</resources>
